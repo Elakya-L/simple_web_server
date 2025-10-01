@@ -39,7 +39,7 @@ content= '''
 </head>
 <body>
     <h2>TCP/IP PROTOCOL SUITE</h2>
-       <table BORDER="3" width="950" cellspacing="20" cellpadding="20" border-collapse: collapse; >
+       <table BORDER="3" width="950" cellspacing="20" cellpadding="20" >
             <tr>
                 <th>LAYERS</th>
                 <th>LAYER NAME</th>
